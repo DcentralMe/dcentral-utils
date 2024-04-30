@@ -1,0 +1,23 @@
+# package directories
+node_modules
+jspm_packages
+yarn-error.log
+coverage
+dist
+docs
+deps.dot
+
+.serverless
+prisma
+.esbuild
+.env.dev
+.env.local
+env.dev
+env.local
+
+# env
+.env
+env.json
+env.local
+.env.dev
+.env.local
